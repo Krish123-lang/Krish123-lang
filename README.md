@@ -20,8 +20,6 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-
   <a href="https://www.facebook.com/krisna.mandal.589/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
    <a href="https://twitter.com/Krishna04643363"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
      <a href="https://www.instagram.com/krisna.mandal.589/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
