@@ -7,8 +7,8 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 
-- 🔭 I’m currently working on `Django Projects`<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning `Django web development`<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></h2>
+- 🔭 I’m currently a `Python Developer`<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning `Python DEvelopement`<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></h2>
 - 📫 How to reach me: [Facebook](https://www.facebook.com/krisna.mandal.589/), [Twitter](https://twitter.com/Krishna04643363), [Instagram](https://www.instagram.com/krisna.mandal.589/), [Instagram](https://www.linkedin.com/in/krishna-mandal-9b937a217/)
 
 
