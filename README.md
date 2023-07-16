@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Folks;I'm+Krishna+kumar+Mandal;I'm+a+Python+Programmer;I'm+a+Data+Analyst;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Folks;I'm+Krishna+kumar+Mandal;I'm+a+PHP+Programmer;I'm+a+Web+Developer;)](https://git.io/typing-svg) 
 
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
