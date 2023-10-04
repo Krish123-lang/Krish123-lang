@@ -1,6 +1,6 @@
 
   ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Folks;I'm+Krishna+kumar+Mandal;I'm+a+PHP+Programmer;I'm+a+Web+Developer;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;I'm+Krishna+kumar+Mandal;I'm+a+Python+Programmer;I'm+a+Full+Stack+Developer;)](https://git.io/typing-svg) 
 <br/>  
 
 ## My Skill Set  
