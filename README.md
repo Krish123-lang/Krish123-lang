@@ -42,12 +42,6 @@
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-
-- 🔭 I’m currently a `PHP Developer, Python Programmer`<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning `Python, PHP, Web Development`<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></h2>
-- 📫 How to reach me: [Facebook](https://www.facebook.com/krisna.mandal.589/), [Twitter](https://twitter.com/Krishna04643363), [Instagram](https://www.instagram.com/krisna.mandal.589/), [Instagram](https://www.linkedin.com/in/krishna-mandal-9b937a217/)
-
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
