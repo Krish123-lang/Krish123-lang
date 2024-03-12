@@ -41,7 +41,7 @@
 
 ### Who am I?
 
-I am a passionate and dedicated individual who enjoys for solutions of random challenges with a keen interest in Full Stack Web Deb Development. Over the course of my Academic Journey, I have solid foundationin these areas and have consistently excelled in related Coursework and Projects.
+I am a passionate and dedicated individual who enjoys for solutions of random challenges with a keen interest in Full Stack Web Development. Over the course of my Academic Journey, I have solid foundationin these areas and have consistently excelled in related Coursework and Projects.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
