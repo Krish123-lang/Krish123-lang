@@ -190,11 +190,3 @@ If you're interested in working together on a project I would love to hear from 
 <!-- activity graph heroku-app end -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish123-lang&layout=compact&theme=rose_pine" alt="Top Langs" width="100%">
-  </p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
