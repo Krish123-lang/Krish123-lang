@@ -31,7 +31,11 @@ src="https://img.shields.io/github/followers/Krish123-lang?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Krish123-lang"><img src="https://github-readme-stats.vercel.app/api?username=Krish123-lang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Krish123-lang's GitHub stats" /></a>
+![Krish123-lang's Stats](https://github-readme-stats.vercel.app/api?username=Krish123-lang&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+
+![Krish123-lang's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krish123-lang&theme=highcontrast&hide_border=true)
+
+![Krish123-lang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish123-lang&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 <a href="https://github.com/Krish123-lang" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish123-lang&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
