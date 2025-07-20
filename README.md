@@ -4,14 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -------------
 
-* 🌍  I'm based in Nepal
-* ✉️  You can contact me at [krishna.helloworld@gmail.com](mailto:krishna.helloworld@gmail.com)
+* I'm based in Nepal
+* You can contact me at [krishna.helloworld@gmail.com](mailto:krishna.helloworld@gmail.com)
 
 <a href="https://www.github.com/Krish123-lang" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Krish123-lang?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 # 💫 About Me:
-🚀 Passionate developer on a journey to master PHP(Laravel), Python(Django), React, RESTAPIs, ML/AI and Web Development.<br>💡 Constantly improving problem-solving, logic-building, and software design.<br>📚 Exploring Data Science, Machine Learning/Artificial Intelligence and Full-Stack Development along the way.<br>🔥  Tech enthusiast. Always learning, always building, always leveling up.
+- Passionate developer on a journey to master PHP(Laravel), Python(Django), React, RESTAPIs, ML/AI and Web Development.
+- Constantly improving problem-solving, logic-building, and software design.
+- Exploring Data Science, Machine Learning/Artificial Intelligence and Full-Stack Development along the way.
+- Tech enthusiast. Always learning, always building, always leveling up.
 
 ### Skills
 
