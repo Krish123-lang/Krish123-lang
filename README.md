@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krishna Mandal
 ======================================================================================================================================
 
-Python Developer
+Backend Developer
 -------------
 
-* 🌍  I'm based in Kathmandu
+* 🌍  I'm based in Nepal
 * ✉️  You can contact me at [krishna.helloworld@gmail.com](mailto:krishna.helloworld@gmail.com)
 
 <a href="https://www.github.com/Krish123-lang" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Krish123-lang?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 # 💫 About Me:
-🚀 Passionate developer on a journey to master Python(Django), React, RESTAPIs, ML/AI and Web Development.<br>💡 Constantly improving problem-solving, logic-building, and software design.<br>📚 Exploring Data Science, Machine Learning/Artificial Intelligence and Full-Stack Development along the way.<br>🔥  Tech enthusiast. Always learning, always building, always leveling up.
+🚀 Passionate developer on a journey to master PHP(Laravel), Python(Django), React, RESTAPIs, ML/AI and Web Development.<br>💡 Constantly improving problem-solving, logic-building, and software design.<br>📚 Exploring Data Science, Machine Learning/Artificial Intelligence and Full-Stack Development along the way.<br>🔥  Tech enthusiast. Always learning, always building, always leveling up.
 
 ### Skills
 
@@ -31,11 +31,6 @@ src="https://img.shields.io/github/followers/Krish123-lang?logo=github&style=for
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/krisna.mandal.589) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishna__is__awesome) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-kumar-mandal-401322270) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hexad98777) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/True-Coconut-8645) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@krishna_dada_ko_profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Krishna04643363) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishna.helloworld@gmail.com) 
 
 ---
-## Roadmap.sh stats
-
-[![roadmap.sh](https://roadmap.sh/card/wide/65f1b78dd145909eb8977f05?variant=dark)](https://roadmap.sh)
----
-
 
 <b>My GitHub Stats</b>
 
