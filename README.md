@@ -13,7 +13,7 @@
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I am a Computer Engineering Student
+- I am a Computer Engineering
 - I am a Backend Developer
 - I am an AI/ML Engineer
 
